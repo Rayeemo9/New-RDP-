@@ -10,7 +10,7 @@ jobs:
 
     steps:
       - name: Set up job
-        # A placeholder step that often runs implicitly but is good practice to include
+        
         run: Write-Host "Starting RDP setup job..."
 
       - name: Configure Core RDP Settings
